@@ -10,7 +10,7 @@ At Notre Dame, I'm majoring in Computer Science; minoring in Science, Technology
 
 I also have a variety of other, more random, interests in life, including:
 
-# * Event Planning #
+###### * Event Planning ######
 	* At school, I am one of the Co-Captains for my dorm's Freshman Orientation. This means that I, and my Co-Captain, are in charge of picking and managing a team of 17 ambassadors below us, moving in ~100 First-Year girls to our dorm, planning events for these girls within our dorm, and planning events for these girls to interact with a variety of other First-Years and their dorms. Planning these 10 or so specific events starts months in advance and requires much coordination and organization on our parts, but it is one of my *favorite* activities.
 
 * Music

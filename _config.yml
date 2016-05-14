@@ -7,13 +7,18 @@
 
 # Site settings
 title: Taylor Rongaus
-email: trongaus@nd.edu
 email: trongaus@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Computer Science Major at the University of Notre Dame
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "trongaus.github.io" # the base hostname & protocol for your site
 github_username:  trongaus
+
+footer-links:
+  email: trongaus@gmail.com
+  github: trongaus
+  linkedin: trongaus
+  bitbucket: trongaus
 
 # Build settings
 markdown: kramdown

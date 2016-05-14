@@ -31,7 +31,7 @@ Not the most common interest of a Computer Scientist! My favorite author is Agat
 
 
 
-####Please feel free to get in touch with me at any time! ####
+#### **Please feel free to get in touch with me at any time!** ####
 
 * Notre Dame Email: [trongaus@nd.edu][trongaus-email1]
 * Professional Email: [trongaus@gmail.com][trongaus-email2]
@@ -42,7 +42,7 @@ Or check out my work on these various other sites:
 * [GitHub][trongaus-github]
 * [BitBucket][trongaus-bitbucket]
 
-####Peace!####
+#### **Peace!** ####
 
 [radioshow]: https://wvfi.nd.edu
 [trongaus-pinterest]: https://pinterest.com/trongaus

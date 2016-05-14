@@ -28,8 +28,8 @@ I also have a variety of other, more random, interests in life, including:
 
 * #### Reading ####
 	* Not the most common interest of a Computer Scientist! My favorite author is Agatha Christie (I couldn't even put a number on how much I've read by her), and I love old novels in general. I also enjoy reading books by Malcolm Gladwell, Dan Brown, J.K. Rowling/ Robert Galbraith, and many many more. 
-	 
 
+	
 
 Please feel free to get in touch with me at any time! 
 

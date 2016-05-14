@@ -26,7 +26,7 @@ A weird interest, I know, but there's something so satisfying to me about being 
 Another thing I would do more if I could! I, like most millenials, truly do want to see the world. Last summer, I spent six weeks studying abroad at Notre Dame's campus in London, England, and during my time there I took trips to see Cinque Terre and Florence, Italy; Barcelona, Spain; and Paris, France. It undoubtedly was the best six weeks of my life, and I hope to be able to go back to London someday soon. I also like to travel around a little closer to home: I've visited around 18 of the 50 states, Canada, Mexico, Aruba, St. Thomas, St. Maarten, and the Dominican Republic! Seeing new places is something I will forever enjoy. I also like to document some of my expenditures on my [VSCO page][trongaus-vsco], so feel free to check that out as well!
 
 
-#### Reading ####
+#### **Reading** ####
 Not the most common interest of a Computer Scientist! My favorite author is Agatha Christie (I couldn't even put a number on how much I've read by her), and I love old novels in general. I also enjoy reading books by Malcolm Gladwell, Dan Brown, J.K. Rowling/ Robert Galbraith, and many many more. 
 
 

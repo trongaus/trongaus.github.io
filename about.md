@@ -10,22 +10,22 @@ At Notre Dame, I'm majoring in Computer Science; minoring in Science, Technology
 
 I also have a variety of other, more random, interests in life, including:
 
-	+ Event Planning
-	+ Music
-	+ Organization
-	+ Travel
-	+ Shows
+	Event Planning
+	Music
+	Organization
+	Travel
+	Shows
 
 Please feel free to contact me anytime! 
 
-	+ Notre Dame Email: trongaus@nd.edu
-	+ Professional Email: trongaus@gmail.com
+	Notre Dame Email: trongaus@nd.edu
+	Professional Email: trongaus@gmail.com
 
 Or check out my work on these various other sites:
 
-	+ [LinkedIn][trongaus-linkedin]
-	+ [GitHub][trongaus-github]
-	+ [BitBucket][trongaus-bitbucket]
+	[LinkedIn][trongaus-linkedin]
+	[GitHub][trongaus-github]
+	[BitBucket][trongaus-bitbucket]
 
 [trongaus-linkedin]: https://www.linkedin.com/in/trongaus?trk=nav_responsive_tab_profile_pic
 [trongaus-github]: http://github.com/trongaus

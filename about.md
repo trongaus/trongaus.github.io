@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Taylor Rongaus, and I'm a rising junior at the **University of Notre Dame**. Originally, I'm from Pittsburgh, Pennsylvania, but Notre Dame has *truly* become my new home.
 
-At Notre Dame, I'm *majoring* in **Computer Science**; *minoring* in **Science, Technology, and Values**; and *persuing a minor* in **Engineering Corporate Practice**. I often get asked: "What do you plan on doing with that?" and my answer is honestly "I don't know." As of right now, my interests lie in *studying the ways that humans interact with technology and attempting to bridge the gap between the technical and the non-technical*. I hope, though, that by providing myself an education in a technical field with a liberal arts background, I will start to fully understand this gap.
+At Notre Dame, I'm majoring in **Computer Science**; minoring in **Science, Technology, and Values**; and persuing a minor in **Engineering Corporate Practice**. I often get asked: "What do you plan on doing with that?" and my answer is honestly "I don't know." As of right now, my interests lie in studying the ways that humans interact with technology and attempting to bridge the gap between the technical and the non-technical. I hope, though, that by providing myself an education in a technical field with a liberal arts background, I will start to fully understand this gap.
 
 I also have a variety of other, more random, interests in life, including:
 
@@ -31,7 +31,7 @@ Not the most common interest of a Computer Scientist! My favorite author is Agat
 
 
 
-Please feel free to get in touch with me at any time! 
+####Please feel free to get in touch with me at any time! ####
 
 * Notre Dame Email: [trongaus@nd.edu][trongaus-email1]
 * Professional Email: [trongaus@gmail.com][trongaus-email2]
@@ -42,7 +42,7 @@ Or check out my work on these various other sites:
 * [GitHub][trongaus-github]
 * [BitBucket][trongaus-bitbucket]
 
-Peace!
+####Peace!####
 
 [radioshow]: https://wvfi.nd.edu
 [trongaus-pinterest]: https://pinterest.com/trongaus

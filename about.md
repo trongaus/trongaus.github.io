@@ -36,13 +36,16 @@ Not the most common interest of a Computer Scientist! My favorite author is Agat
 * Notre Dame Email: [trongaus@nd.edu][trongaus-email1]
 * Professional Email: [trongaus@gmail.com][trongaus-email2]
 
-Or check out my work on these various other sites:
+#### **And check out my professional side!** ####
 
 * [LinkedIn][trongaus-linkedin]
 * [GitHub][trongaus-github]
 * [BitBucket][trongaus-bitbucket]
+* [Download my resume](https://github.com/trongaus/trongaus.github.io/raw/master/_includes/resume.pdf)
+
 
 #### **Peace!** ####
+
 
 [radioshow]: https://wvfi.nd.edu
 [trongaus-pinterest]: https://pinterest.com/trongaus

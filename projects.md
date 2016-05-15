@@ -17,6 +17,15 @@ My most recent group project was an open-ended, C++ based Casino. We were instru
 I personally *loved* the result of this project. While many students choose to implement an SDL graphics-based game in C++, our group decided to do something different, yet still **fun and challenging**. There were no bugs in our code, and we worked together extremely well to create our final product. The **code** for this project **is available in Bitbucket** under the CSE20212_project repository's FINAL directory.
 
 #### **Textbook Chapter** ####
+This was a different, also recent, project of mine that I completed for an anthropology course entitled Hacking Life. This course was taken to satisfy a requirement for my Science, Technology, and Values minor, and I truly grew to regard it as **one of the best courses I have taken** thus far at Notre Dame. 
+
+For those interested, the description of the course was as follows: 
+
+"Everything is hacked. For good and bad, hacking has spread into every aspect of life - life-saving medical technology, social infrastructure, financial systems, biological processes, even personhood. This is both the front of profound creativity and dangerous global insecurity. It is the great equalizer: everyone has access to the technologies; everyone can be a target. And simultaneously it's disequilibrium: creating new haves and have-nots in politics, economics, and social capital. Studies show ELSI - ethical, legal, and social implications - are barely understood, with technology outpacing controls in all these areas. Completely new forms of power, criminality, science, society, and self are emerging. We, the proverbial anyone, are the battlegrounds for power and the source of solutions."
+
+Throughout the semester, I worked with a group on a textbook that we would (in theory) be able to present to a future class, since there is really no concise literature on such a topic. We chose to write *Digital Realities*, which was our attempt at a discussion on the current state of technology in our society. I specifically chose to focus my chapter on the **Ethics** of technology, both in its usage and development, in such a society. This is a topic that I have recently had a fascination with, and it was very interesting to me to read the thoughts of some big names on the idea. If you're interested, you may download my chapter on the topic [here](https://github.com/trongaus/trongaus.github.io/raw/master/_includes/Ethics%20chapter%20of%20Digital%20Realities.pdf).
+
+
 
 #### **Why Did The Chicken...?** ####
 

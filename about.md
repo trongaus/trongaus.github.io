@@ -4,6 +4,10 @@ title:  About
 permalink: /about/
 ---
 
+<p>
+	<img src="https://s3.amazonaws.com/files.digication.com/Maf2a4d678a63ff7e4c6d90e6e22daf32.jpg" alt="Me" style="border: 0pt none; float:right; padding-left:30px; padding-right:40px; padding-bottom:10px; width: 250px;"/>
+</p>
+
 My name is Taylor Rongaus, and I'm a rising junior at the **University of Notre Dame**. Originally, I'm from Pittsburgh, Pennsylvania, but Notre Dame has *truly* become my new home.
 
 At Notre Dame, I'm majoring in **Computer Science**; minoring in **Science, Technology, and Values**; and persuing a minor in **Engineering Corporate Practice**. I often get asked: "*What do you plan on doing with that?*" and my honest answer is "*I don't know.*" As of right now, my interests lie in studying the ways that humans interact with technology and attempting to bridge the gap between the technical and the non-technical. I hope, though, that by providing myself an education in a technical field with an extensive liberal arts background, I will begin to understand this gap.

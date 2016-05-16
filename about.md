@@ -46,7 +46,7 @@ Not the most common interest of a Computer Scientist! My favorite author is Agat
 * [LinkedIn][trongaus-linkedin]
 * [GitHub][trongaus-github]
 * [BitBucket][trongaus-bitbucket]
-* [Download my resume](https://github.com/trongaus/trongaus.github.io/raw/master/_includes/resume.pdf)
+* [Resume](https://github.com/trongaus/trongaus.github.io/raw/master/_includes/resume.pdf)
 
 #### **Peace!** ####
 

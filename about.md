@@ -21,7 +21,7 @@ At school, I am one of the Co-Captains for my dorm's Freshman Orientation. This 
 
 
 #### **Music** ####
-I really enjoy keeping up with new (and old!) music, and I do a radio show with friends at Notre Dame where we play some of our favorites (you can check it out on [WVFI][radioshow] but the date/ time of our show next semester is TBD). My current obsessions are Rihanna's album ANTI; Amy Winehouse's album Back to Black; and just about anything by BORNS, KYGO, Twenty-One Pilots, Florence and the Machine, or Adele. 
+I really enjoy keeping up with new (and old!) music, and I do a radio show with friends at Notre Dame where we play some of our favorites (you can check it out on [WVFI][radioshow] but the date/ time of our show next semester is TBD). My current obsessions are Rihanna's album ANTI; Amy Winehouse's album Back to Black; and just about anything by BORNS, KYGO, Sia, Twenty-One Pilots, Florence and the Machine, or Adele. 
 
 
 #### **Organization** ####

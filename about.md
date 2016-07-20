@@ -8,11 +8,11 @@ permalink: /about/
 	<img src="https://s3.amazonaws.com/files.digication.com/Maf2a4d678a63ff7e4c6d90e6e22daf32.jpg" alt="Me" style="border: 0pt none; float:right; padding-left:30px; padding-right:30px; padding-bottom:10px; width: 275px;"/>
 </p>
 
-My name is Taylor Rongaus, and I'm a rising junior at the **University of Notre Dame**. Originally, I'm from Pittsburgh, Pennsylvania, but Notre Dame has *truly* become my new home.
+My name is Taylor Rongaus, and I'm a rising junior at the **University of Notre Dame**. Originally, I'm from Pittsburgh, Pennsylvania, but Notre Dame has become my new home.
 
 At Notre Dame, I'm majoring in **Computer Science**; minoring in **Science, Technology, and Values**; and persuing a minor in **Engineering Corporate Practice**. I often get asked: "*What do you plan on doing with that?*" and my honest answer is "*I don't know.*" As of right now, my interests lie in studying the ways that humans interact with technology and attempting to bridge the gap between the technical and the non-technical. I hope, though, that by providing myself an education in a technical field with an extensive liberal arts background, I will begin to understand this gap.
 
-While at school, I hold a job as an **Undergraduate Student Assistant** for the **Introduction to Engineering Systems and Processes** course. This requires me to attend classes, hold office hours, grade homework, and generally be familiar with the concepts and softwares taught in the class (i.e., LabVIEW and MATLAB). This summer, I will be **interning with the Bettis Atomic Power Laboratory** located in West Mifflin, PA underneath of their Knowledge and Multimedia Services team. Bettis Atomic Power Laboratory is a U.S. Government-owned research and development facility operated by Bechtel Marine Propulsion Corporation.
+While at school, I hold a job as an **Undergraduate Student Assistant** for the **Introduction to Engineering Systems and Processes** course. This requires me to attend classes, hold office hours, grade homework, and generally be familiar with the concepts and softwares taught in the class (i.e., LabVIEW and MATLAB). This summer, I will be **interning with the Bettis Atomic Power Laboratory**, a U.S. Government-owned research and development facility operated by Bechtel Marine Propulsion Corporation.
 
 I also have a variety of other interests in life, including:
 

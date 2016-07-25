@@ -23,9 +23,8 @@ My question now is: "*How do we change a culture*?" How do we ingrain this belie
 
 I honestly don't know- I'm just a lowly computer science major. But I promise you, I'm working to find out.
 
+
 _ _ _ _ _ _ _ _ _ _
-
-
 
 **Sources:**
 

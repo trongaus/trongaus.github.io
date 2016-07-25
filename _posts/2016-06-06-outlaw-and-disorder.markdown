@@ -26,7 +26,8 @@ I honestly don't know- I'm just a lowly computer science major. But I promise yo
 _ _ _ _ _ _ _ _ _ _
 
 
-Sources: 
+
+**Sources:**
 
 [The National Crime Victimization Survey][NCVS]
 

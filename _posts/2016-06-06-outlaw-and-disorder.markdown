@@ -2,7 +2,7 @@
 layout: post
 title:  "Outlaw & Disorder"
 date:   2016-06-16 20:13:51 -0400
-categories: assault rape culture outlaw disorder
+categories:
 ---
 
 For a while now, I've been getting pestered to watch *Game of Thrones*. Most of my friends have described it as something that I would like, mainly because of the subtle politics that make the show so gripping. But pretty much everyone has given me the same warning: "It's graphic. **But you get used to it.**"

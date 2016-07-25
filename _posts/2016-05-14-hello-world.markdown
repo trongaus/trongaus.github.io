@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World!"
 date:   2016-05-14 14:54:51 -0400
-categories: welcome post
+categories:
 ---
 
 Thanks for finding your way to my website!

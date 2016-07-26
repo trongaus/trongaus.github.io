@@ -27,7 +27,7 @@ I honestly don't know- I'm just a lowly computer science major. But I promise yo
 _ _ _ _ _ _ _ _ _ _
 
 **Sources:**
-[The National Crime Victimization Survey][NCVS],[CNN][CNN]
+[The National Crime Victimization Survey][NCVS], [CNN][CNN]
 
 [NCVS]: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5366
 [CNN]: http://www.cnn.com/2016/06/06/us/sexual-assault-brock-turner-stanford/

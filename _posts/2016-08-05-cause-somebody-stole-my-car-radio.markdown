@@ -9,7 +9,7 @@ Ok so this post is a lot less serious than the last one because I haven't had an
 
 Well not really (also, listen to [this][Car Radio] song please if you don't understand that reference). I don't sit in silence in my car- I've been listening to podcasts. Like *a lot* of podcasts. I've been doing a lot of driving recently: my work is 30+ minutes away, I visited Penn State (~3 hrs) and Notre Dame (~6 hrs), my lake house is 2+ hours away, etc. So there's lots of opportunities for podcasts, and there's lots of opportunities to think about those topics.
 
-So basically, I'm going to briefly talk about some of my favorite podcasts and some of the cool things I've learned that I'll probably later write longer posts on.
+So basically, I'm going to briefly talk about some of my favorite podcasts and some of the cool things I've learned that I'll probably write longer posts on later.
 
 
 **Revisionist History**
@@ -34,14 +34,15 @@ If you're interested in listening to these as well, you can check them out on th
 
 **Stuff You Should Know**
 
-I don't love this podcast as much as the two above, mainly just because of the style of it- it's slower and the hosts tend to go off on tangents when I just want to hear the information itself. *But* they did have this one super random episode that I loved, and I'm still searching for move like it. 
+I don't love this podcast as much as the two above, mainly just because of the style of it- it's slower and the hosts tend to go off on tangents when I just want to hear the information itself. *But* they did have this one super random episode that I loved, and I'm still searching for more like it. 
 
 This episode was *Why Are So Many Disembodied Feet Washing Ashore in British Columbia?* and it was seriously weird. Not gross, I promise, just quirky and weird and truly fascinating. I won't spoil the answer to the question for you, but you can give it a listen for yourself on their [website][SYSK].
 
 
 Okay well I think I'm done. If you read this far, thanks for putting up with my ramblings. Hopefully I'll have a more solidified idea to talk about in my next post.
 
-PEACE
+
+**PEACE**
 
 
 [Car Radio]: https://www.youtube.com/watch?v=92XVwY54h5k

@@ -12,7 +12,7 @@ My name is Taylor Rongaus, and I'm a rising junior at the **University of Notre 
 
 At Notre Dame, I'm majoring in **Computer Science**; minoring in **Science, Technology, and Values**; and persuing a minor in **Engineering Corporate Practice**. I often get asked: "*What do you plan on doing with that?*" and my honest answer is "*I don't know.*" As of right now, my interests lie in studying the ways that humans interact with technology and attempting to bridge the gap between the technical and the non-technical. I hope, though, that by providing myself an education in a technical field with an extensive liberal arts background, I will begin to understand this gap.
 
-While at school, I hold a job as an **Undergraduate Student Assistant** for the **Introduction to Engineering Systems and Processes** course. This requires me to attend classes, hold office hours, grade homework, and generally be familiar with the concepts and softwares taught in the class (i.e., LabVIEW and MATLAB). This summer, I will be **interning with the Bettis Atomic Power Laboratory**, a U.S. Government-owned research and development facility operated by Bechtel Marine Propulsion Corporation.
+While at school, I hold a job as an **Undergraduate Student Assistant** for the **Introduction to Engineering Systems and Processes** course. This requires me to attend classes, hold office hours, grade homework, and generally be familiar with the concepts and softwares taught in the class (i.e., LabVIEW and MATLAB). This past summer, I interned with **Naval Nuclear Laboratory**, a U.S. Government-owned research and development facility operated by Bechtel Marine Propulsion Corporation.
 
 I also have a variety of other interests in life, including:
 
@@ -21,7 +21,7 @@ At school, I am one of the Co-Captains for my dorm's Freshman Orientation. This 
 
 
 #### **Music** ####
-I really enjoy keeping up with new (and old!) music, and I do a radio show with friends at Notre Dame where we play some of our favorites (you can check it out on [WVFI][radioshow] but the date/ time of our show next semester is TBD). My current obsessions are Rihanna's album ANTI; Amy Winehouse's album Back to Black; and just about anything by BORNS, KYGO, Sia, Twenty-One Pilots, Florence and the Machine, or Adele. 
+I really enjoy keeping up with new (and old!) music, and I do a radio show with friends at Notre Dame where we play some of our favorites (you can check it out on [WVFI][radioshow] but the date/ time of our show next semester is TBD). My current obsessions are Rihanna's album ANTI and just about anything by BORNS, KYGO, Sia, Twenty-One Pilots, Florence and the Machine, or Adele. 
 
 
 #### **Organization** ####
@@ -29,7 +29,7 @@ A weird interest, I know, but there's something so satisfying to me about being 
 
 
 #### **Travel** ####
-Another thing I would do more if I could! I, like most people, truly do want to see the world. Last summer, I spent six weeks studying abroad at Notre Dame's campus in London, England, and during my time there I took trips to see Cinque Terre and Florence, Italy; Barcelona, Spain; and Paris, France. It undoubtedly was the best six weeks of my life, and I hope to be able to go back to London someday soon. I also like to travel around a little closer to home: I've visited around 18 of the 50 states, Canada, Mexico, Aruba, St. Thomas, St. Maarten, and the Dominican Republic! Seeing new places is something I will forever enjoy. I also like to document some of my expenditures on my [VSCO page][trongaus-vsco], so feel free to check that out as well!
+Another thing I would do more if I could! I, like most people, truly do want to see the world. Last summer, I spent six weeks studying abroad at Notre Dame's campus in London, England, and during my time there I took trips to see Cinque Terre and Florence, Italy; Barcelona, Spain; and Paris, France. It undoubtedly was the best six weeks of my life, and I hope to be able to go back to London someday soon. I also like to travel around a little closer to home: I've visited around 18 of the 50 states, Canada, Mexico, Aruba, St. Thomas, St. Maarten, and the Dominican Republic! Seeing new places is something I will forever enjoy. I also like to document some of my adventures on my [VSCO page][trongaus-vsco], so feel free to check that out as well!
 
 
 #### **Reading** ####

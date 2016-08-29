@@ -124,5 +124,5 @@ Another project for the First-Year Engineering course was to design a "Robotic P
 
 The third project for the First-Year Engineering course was a Platform Design project. While this doesn't pertain much to my interests today, it does go to show how I worked well with a group on a project that I didn't particularly enjoy. My group created a subassembly consisting of four small rectangular prisms, four longer rectangular prisms, four small cylinders, and four longer cylinders. The intended effect of stacking the floats with the longer floats on the bottom of the platform was to meet a 70% constraint, where the platform was not permitted to sink more than 70% between the nominal and limit loading conditions. Through this method, the platform sank deeper on the longer floats than on the shorter floats with larger surface areas, satisfying the constraint. Overall, our platform **performed close to expected** when we tested it in water with the weights for each loading condition. We came closer to the 70% constraint than expected, with an experimental difference in height displaced of 67%. However, our platform **held more weight than we predicted** and *ultimately succeeded* in our testing. Pictured above is my group's completed platform, upright (left) and upside-down (right).
 
-[Weebly]: weebly.com
-[Lewis]: lewis.nd.edu
+[Weebly]: http://www.weebly.com
+[Lewis]: http://lewis.nd.edu

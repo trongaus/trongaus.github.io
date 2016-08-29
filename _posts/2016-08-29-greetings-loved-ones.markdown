@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Greetings loved ones. Let's take a journey."
+title:  "Greetings Loved Ones. Let's Take a Journey."
 date:   2016-08-29 14:54:51 -0400
 categories:
 ---

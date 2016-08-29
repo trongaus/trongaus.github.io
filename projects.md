@@ -8,7 +8,7 @@ permalink: /projects/
 My most recent group project was an open-ended, C++ based Casino. We were instructed to simply utilize concepts of C++ and OOP to create a functional project of some sort, so my group members and I chose to make a terminal-based Casino with multiple nested mini-games within it. The user enters their name upon entering the Casino, and the program will either give a new player starting money or determine how much money is in their wallet (if they have played the game before). It will then present the list of games that the user can have the choice to play: roulette, blackjack, five-card stud, slots, and keno. Each group member was in charge of the logic behind one game in particular (mine was roulette). A second group member and myself also took on the responsibility of linking all of the game classes together using composition to control the flow of money, and I personally also added in a lot of ASCII art and other fun features in order to maintain a **fun and smooth gameplay**.
 
 <p align="center">
-	<img src="https://s3.amazonaws.com/files.digication.com/M29cd8042ad6f99da5326ffb202efe5a7.png" alt="Casino" style="width: 500px;"/>
+	<img src="https://raw.githubusercontent.com/trongaus/trongaus.github.io/master/_includes/casino.png" alt="Casino" style="width: 500px;"/>
 </p>
 <p align="center">
 	A capture of an example casino gameplay
@@ -32,21 +32,21 @@ Throughout the semester, I worked with a group on a textbook that we would (in t
 My partner group project from my sophomore fall semester was another open-ended one, this time based in C. We decided to put our own spin on the more well-known games of Crossy Road and Frogger by creating "Why Did The Chicken...?". This game utilizes a gfx library, created and maintained by the Notre Dame Computer Science department, for its graphics component and our own C-code for the movement and collision detection aspects. 
 
 <p align="center">
-	<img src="https://s3.amazonaws.com/files.digication.com/Mc16121e0d663ea93e13c5e536d02a459.png" alt="Casino" style="width: 500px;"/>
+	<img src="https://raw.githubusercontent.com/trongaus/trongaus.github.io/master/_includes/whydidthechicken1.png" alt="Casino" style="width: 500px;"/>
 </p>
 <p align="center">
 	The initial load screen
 </p>
 
 <p align="center">
-	<img src="https://s3.amazonaws.com/files.digication.com/M6b286b884e340bfe6ece8a604f16cee4.png" alt="Casino" style="width: 500px;"/>
+	<img src="https://raw.githubusercontent.com/trongaus/trongaus.github.io/master/_includes/whydidthechicken2.png" alt="Casino" style="width: 500px;"/>
 </p>
 <p align="center">
 	Game Play (featuring the 99 lives I gave myself because I was bad at this game)
 </p>
 
 <p align="center">
-	<img src="https://s3.amazonaws.com/files.digication.com/M51886909246b89737ecbf0858f106aae.png" alt="Casino" style="width: 500px;"/>
+	<img src="https://raw.githubusercontent.com/trongaus/trongaus.github.io/master/_includes/whydidthechicken3.png" alt="Casino" style="width: 500px;"/>
 </p>
 <p align="center">
 	The end screen
@@ -58,28 +58,28 @@ Overall, this project was a *bit* of a struggle for two people, but we did event
 For my First-Year Engineering course's Open-Ended Project (the same course that I now work for!), my group chose to fully focus on our training in MATLAB by programming the game Battleship. Our overall goal was to develop a functional version of the game Battleship using MATLAB code by utilizing both user input and self-written functions to determine the moves of a human player against a computer opponent. The game would center around the creation of various GUIs for the user to dictate moves and decisions, view the game board, and graphically represent the results of computer gameplay. We wanted to provide an experience for the user that was smooth, accessible, and most of all, enjoyable. Below are screen captures of a flowchart showing the logic of the various created functions that provided the basis for the game, along with the three GUIs created for the project.
 
 <p align="center">
-	<img src="https://s3.amazonaws.com/files.digication.com/Mffac636bc48caafd761fc9069be84ffa.png" alt="Battleship Logic" style="width: 500px;"/>
+	<img src="https://raw.githubusercontent.com/trongaus/trongaus.github.io/master/_includes/battleship1.png" alt="Battleship Logic" style="width: 500px;"/>
 </p>
 <p align="center">
 	The logical basis of our Battleship Game
 </p>
 
 <p align="center">
-	<img src="https://s3.amazonaws.com/files.digication.com/M2c2e46b2b119a52d9d344f795cefcbb5.png" alt="Ship Placer" style="width: 500px;"/>
+	<img src="https://raw.githubusercontent.com/trongaus/trongaus.github.io/master/_includes/battleship2.png" alt="Ship Placer" style="width: 500px;"/>
 </p>
 <p align="center">
 	The "Ship Placer" GUI
 </p>
 
 <p align="center">
-	<img src="https://s3.amazonaws.com/files.digication.com/M2d0e1941281e3b3e00c379908b2b690c.png" alt="Gameboard" style="width: 500px;"/>
+	<img src="https://raw.githubusercontent.com/trongaus/trongaus.github.io/master/_includes/battleship3.png" alt="Gameboard" style="width: 500px;"/>
 </p>
 <p align="center">
 	The Battleship Gameboard
 </p>
 
 <p align="center">
-	<img src="https://s3.amazonaws.com/files.digication.com/Mc677dbb06f9438e04bd4be54ee0458c2.png" alt="Game Sim" style="width: 500px;"/>
+	<img src="https://raw.githubusercontent.com/trongaus/trongaus.github.io/master/_includes/battleship4.png" alt="Game Sim" style="width: 500px;"/>
 </p>
 <p align="center">
 	The Game Simulation GUI
@@ -91,7 +91,7 @@ Overall, our project turned out to be *very* successful. Each computer algorithm
 #### **Spongebob Robotpants** ####
 
 <p align="center">
-	<img src="https://s3.amazonaws.com/files.digication.com/M1b035c233ea41193f81086fd73bab631.jpg" alt="Spongebob" style="width: 300px;"/>
+	<img src="https://raw.githubusercontent.com/trongaus/trongaus.github.io/master/_includes/spongebob1.jpg" alt="Spongebob" style="width: 300px;"/>
 </p>
 <p align="center">
 	Spongebob Robotpants
@@ -103,8 +103,8 @@ Another project for the First-Year Engineering course was to design a "Robotic P
 #### **Platform Builder** ####
 
 <p align="center">
-	<img src="https://s3.amazonaws.com/files.digication.com/Mcfbb544f2355e89103d87ec57d517afd.JPG" alt="Platform 1" style="width: 350px;"/>
-	<img src="https://s3.amazonaws.com/files.digication.com/M268f2c19fb30d469fc909a0c822a4096.JPG" alt="Platform 2" style="width: 350px;"/>
+	<img src="https://raw.githubusercontent.com/trongaus/trongaus.github.io/master/_includes/platform1.JPG" alt="Platform 1" style="width: 350px;"/>
+	<img src="https://raw.githubusercontent.com/trongaus/trongaus.github.io/master/_includes/platform2.JPG" alt="Platform 2" style="width: 350px;"/>
 </p>
 <p align="center">
 	The upright and upside down views of our platform

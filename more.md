@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  ?
-permalink: /?/
+title:  More
+permalink: /more/
 ---
 
 Welcome to my blog! If you've clicked on this page, it's likely because you have no idea what's going on here.

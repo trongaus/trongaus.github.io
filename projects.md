@@ -4,6 +4,18 @@ title:  Projects
 permalink: /projects/
 ---
 
+#### **Lewis Hall Website** ####
+This project was actually done outside of my Computer Science curriculum this past summer. As Chair of Digital Media & Relations for my dorm at school (Lewis Hall), I was tasked with designing us a new website to replace our old one. 
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/trongaus/trongaus.github.io/master/_includes/lewiswebsite.png" alt="Lewis Hall Website" style="width: 500px;"/>
+</p>
+<p align="center">
+	The home page for the new website
+</p>
+
+I really wanted to build this website from scratch, but my experience in HTML, CSS, Javascript, etc. has been pretty limited and I was under a bit of a time crunch to get the site released before our incoming freshmen were assigned Lewis as their dorm. I chose to build this site through [Weebly][Weebly] as a result, which made it pretty easy to construct quickly and allowed me to spend more time **focusing on the overall design of the site**. Our past websites haven't been organized well and didn't focus much on making the human interaction with the site easy and understandable, so I really enjoyed making something that took those things into account! Feel free to check out the rest of the site [here][Lewis]!
+
 #### **Casino** ####
 My most recent group project was an open-ended, C++ based Casino. We were instructed to simply utilize concepts of C++ and OOP to create a functional project of some sort, so my group members and I chose to make a terminal-based Casino with multiple nested mini-games within it. The user enters their name upon entering the Casino, and the program will either give a new player starting money or determine how much money is in their wallet (if they have played the game before). It will then present the list of games that the user can have the choice to play: roulette, blackjack, five-card stud, slots, and keno. Each group member was in charge of the logic behind one game in particular (mine was roulette). A second group member and myself also took on the responsibility of linking all of the game classes together using composition to control the flow of money, and I personally also added in a lot of ASCII art and other fun features in order to maintain a **fun and smooth gameplay**.
 
@@ -111,3 +123,6 @@ Another project for the First-Year Engineering course was to design a "Robotic P
 </p>
 
 The third project for the First-Year Engineering course was a Platform Design project. While this doesn't pertain much to my interests today, it does go to show how I worked well with a group on a project that I didn't particularly enjoy. My group created a subassembly consisting of four small rectangular prisms, four longer rectangular prisms, four small cylinders, and four longer cylinders. The intended effect of stacking the floats with the longer floats on the bottom of the platform was to meet a 70% constraint, where the platform was not permitted to sink more than 70% between the nominal and limit loading conditions. Through this method, the platform sank deeper on the longer floats than on the shorter floats with larger surface areas, satisfying the constraint. Overall, our platform **performed close to expected** when we tested it in water with the weights for each loading condition. We came closer to the 70% constraint than expected, with an experimental difference in height displaced of 67%. However, our platform **held more weight than we predicted** and *ultimately succeeded* in our testing. Pictured above is my group's completed platform, upright (left) and upside-down (right).
+
+[Weebly]: weebly.com
+[Lewis]: lewis.nd.edu

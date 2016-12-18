@@ -65,13 +65,15 @@ School
 <br>
 School
 <br>
-Voted in my first ever presidential election and probably lost like 10 years off of my life from the stress of it
+Voted in my first ever presidential election and lost like 10 years off of my life from the stress
 <br>
 School
 <br>
 School
 <br>
 Thankful for Thanksgiving break except I had homework over it ha ha
+<br>
+Actually more thankful for Westworld WOW what a show
 <br>
 School
 <br>

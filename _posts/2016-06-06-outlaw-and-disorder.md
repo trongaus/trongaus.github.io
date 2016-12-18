@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Outlaw & Disorder"
-date:   2016-06-16 20:13:51 -0400
+date:   2016-06-06 20:13:51 -0400
 categories:
 ---
 
@@ -23,8 +23,9 @@ My question now is: "*How do we change a culture*?" How do we ingrain this belie
 
 I honestly don't know- I'm just a lowly computer science major. But I promise you, I'm working to find out.
 
-
-_ _ _ _ _ _ _ _ _ _
+<br>
+<hr>
+<br>
 
 **Sources:**
 [The National Crime Victimization Survey][NCVS], [CNN][CNN]

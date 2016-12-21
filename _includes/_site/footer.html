@@ -2,19 +2,30 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+    <h5>&copy Taylor Rongaus 2016</h5>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
+          <li><a href="mailto:{{ site.email2 }}">{{ site.email2 }}</a></li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
 
-      <div class="footer-col-8">
-        <p>{{ site.description }}</p>
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">
+          <li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
+          <li><a href="https://bitbucket.org/{{ site.bitbucket_username }}">Bitbucket</a></li>
+        </ul>
       </div>
+
+      <div class="footer-col footer-col-3">
+        <ul class="contact-list">
+          <li><a href="https://www.linkedin.com/in/trongaus?trk=nav_responsive_tab_profile_pic">LinkedIn</a></li>
+          <li><a href="https://github.com/trongaus/trongaus.github.io/raw/master/_includes/resume.pdf">Resume</a></li>
+        </ul>
+      </div>
+
     </div>
 
   </div>

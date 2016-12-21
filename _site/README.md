@@ -4,4 +4,4 @@ This is my public github repository for my personal static-text site. This site 
 
 Last website update: 18 December 2016
 
-Last resume update: 15 May 2016
+Last resume update: 19 May 2016

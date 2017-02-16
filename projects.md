@@ -14,7 +14,7 @@ This project was actually done outside of my Computer Science curriculum this pa
 	The home page for the new website
 </p>
 
-I really wanted to build this website from scratch, but my experience in HTML, CSS, Javascript, etc. has been pretty limited and I was under a bit of a time crunch to get the site released before our incoming freshmen were assigned Lewis as their dorm. I chose to build this site through [Weebly](https://weebly.com) as a result, which made it pretty easy to construct quickly and allowed me to spend more time focusing on the overall design of the site. Our past websites haven't been organized well and didn't focus much on making the human interaction with the site easy and understandable, so I really enjoyed making something that took those things into account! Feel free to check out the rest of the site [here](http://lewis.nd.edu)!
+I really wanted to build this website from scratch, but my experience in HTML, CSS, Javascript, etc. has been pretty limited, and I was under a bit of a time crunch to get the site released before our incoming freshmen were assigned Lewis as their dorm. I chose to build this site through [Weebly](https://weebly.com) as a result, which made it pretty easy to construct quickly and allowed me to spend more time focusing on the overall design of the site. Our past websites haven't been organized well and didn't focus much on making the human interaction with the site easy and understandable, so I really enjoyed making something that took those things into account! Feel free to check out the rest of the site [here](http://lewis.nd.edu)!
 
 <br>
 <hr>

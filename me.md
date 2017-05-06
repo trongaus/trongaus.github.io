@@ -5,7 +5,7 @@ permalink: /me/
 ---
 
 <p>
-	<img src="https://raw.githubusercontent.com/trongaus/trongaus.github.io/master/_includes/me.jpg" alt="Me" style="border: 0pt none; float:right; padding-left:30px; padding-right:30px; padding-bottom:10px; width: 275px;"/>
+	<img src="https://raw.githubusercontent.com/trongaus/trongaus.github.io/master/_includes/itme.jpg" alt="Me" style="border: 0pt none; float:right; padding-left:30px; padding-right:30px; padding-bottom:10px; width: 275px;"/>
 </p>
 
 My name is Taylor Rongaus, and I'm a rising junior at the University of Notre Dame. Originally, I'm from Pittsburgh, Pennsylvania, but Notre Dame has become my new home.

@@ -5,9 +5,9 @@ date:   2016-08-05 20:13:51 -0400
 categories:
 ---
 
-Ok so this post is a lot less serious than the last one because I haven't had anything bother me to that extent since I wrote it. And I haven't thought that in-depth about one topic in particular since then either. Why? 'Cause somebody stole my car radio and now I just sit in silence.
+Ever heard [this][Car Radio] by Twenty One Pilots before? As much as I don't want to say that I like the song... I still like the song. Twenty One Pilots was one of my first ever favorite bands and they get a lot of hate and it makes me sad. That's a topic of its own. But anyway...
 
-Well not really (also, listen to [this][Car Radio] song please if you don't understand that reference). I don't sit in silence in my car- I've been listening to podcasts. Like *a lot* of podcasts. I've been doing a lot of driving recently: my work is 30+ minutes away, I visited Penn State (~3 hrs) and Notre Dame (~6 hrs), my lake house is 2+ hours away, etc. So there's lots of opportunities for podcasts, and there's lots of opportunities to think about those topics.
+If you don't understand the title reference, please listen to the song first. And know that I don't sit in silence in my car- I've been listening to podcasts. Like *a lot* of podcasts. I've been doing a lot of driving recently: my work is 30+ minutes away, I visited Penn State (~3 hrs) and Notre Dame (~6 hrs), my lake house is 2+ hours away, etc. So there's lots of opportunities for podcasts, and there's lots of opportunities to think about those topics.
 
 So basically, I'm going to briefly talk about some of my favorite podcasts and some of the cool things I've learned that I'll probably write longer posts on later.
 

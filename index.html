@@ -1,23 +1,280 @@
----
-layout: page
-title:  Blog
----
+<!DOCTYPE html>
+<html lang="en">
 
-<div class="home">
+  <head>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-      <hr>
-      <br>
-    {% endfor %}
-  </ul>
+    <title>Taylor Rongaus</title>
 
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-</div>
+    <!-- Custom fonts for this template -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
+    <!-- Plugin CSS -->
+    <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/creative.min.css" rel="stylesheet">
+
+  </head>
+
+  <body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Taylor Rongaus</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#about">Welcome</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#services">About Me</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#projects-header">Projects</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <header class="masthead">
+      <div class="header-content">
+        <div class="header-content-inner">
+          <h1 id="homeHeading">Taylor Rongaus</h1>
+          <hr>
+          <p class="text-white">Senior Computer Science Major at the University of Notre Dame</p>
+          <a class="btn btn-default btn-xl js-scroll-trigger" href="#about">Welcome</a>
+        </div>
+      </div>
+    </header>
+
+    <section class="bg-primary" id="about">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto text-center">
+            <h2 class="section-heading text-white">Welcome to my website!</h2>
+            <hr class="light">
+            <p class="text-faded">What's up world, my name is Taylor and this is my website. I'm a senior at the University of Notre Dame majoring in Computer Science and minoring in Engineering Corporate Practice. I have past work experience as a Technology Advisory Intern with EY, and I'm interested pursuing a similar career that bridges the gap between my studies in both technology and business. </p>
+            <a class="btn btn-default btn-xl js-scroll-trigger" href="#services">More About Me</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="services">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Who am I really?</h2>
+            <hr class="primary">
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-6 text-center">
+            <div class="service-box">
+              <i class="fa fa-4x fa-graduation-cap text-primary sr-icons"></i>
+              <h3>Academic</h3>
+              <p class="text-muted">I have a passion for learning, both in my studies at school and outside of them. I tend to focus on breadth: rather than be a master on one subject, I like to know a little bit about everything.</p>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 text-center">
+            <div class="service-box">
+              <i class="fa fa-4x fa-cog text-primary sr-icons"></i>
+              <h3>Industrious</h3>
+              <p class="text-muted">I'm a very hard-working person in everything that I do. If I'm given a task, I'll run with it until I'm stuck: no questions asked. There's nothing I hate more than leaving a project unfinished.</p>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 text-center">
+            <div class="service-box">
+              <i class="fa fa-4x fa-female text-primary sr-icons"></i>
+              <h3>Gregarious</h3>
+              <p class="text-muted">I'm a people-focused, social person. I tend to spend any free time I have in the company of other people, which is why I want to find a career that supports and grows the love I have for others.</p>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 text-center">
+            <div class="service-box">
+              <i class="fa fa-4x fa-sun-o text-primary sr-icons"></i>
+              <h3>Optimistic</h3>
+              <p class="text-muted">More accurately, I'm an optimistic-realist. I see the good and the potential in everyone, but I'm not afraid to be honest with myself about both my skills and who I am as a person.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+      </br>
+      <div class="container" id="projects-header">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Some of my projects:</h2>
+            <hr class="primary">
+          </div>
+        </div>
+        </br>
+      </div>
+
+    <section class="p-0" id="portfolio">
+      <div class="container-fluid">
+        <div class="row no-gutter popup-gallery">
+          <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="img/portfolio/fullsize/1.jpg">
+              <img class="img-fluid" src="img/portfolio/thumbnails/1.jpg" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Illinois School for the Visually Impaired
+                  </div>
+                  <div class="project-name">
+                    Low-Vision Mentorship Project
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="img/portfolio/fullsize/2.png">
+              <img class="img-fluid" src="img/portfolio/thumbnails/2.png" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    C++
+                  </div>
+                  <div class="project-name">
+                    Terminal-based Casino 
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="img/portfolio/fullsize/3.png">
+              <img class="img-fluid" src="img/portfolio/thumbnails/3.png" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Design
+                  </div>
+                  <div class="project-name">
+                    Lewis Hall Website
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="img/portfolio/fullsize/4.png">
+              <img class="img-fluid" src="img/portfolio/thumbnails/4.png" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    C
+                  </div>
+                  <div class="project-name">
+                    Why Did the Chicken Cross the Road?
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="img/portfolio/fullsize/5.png">
+              <img class="img-fluid" src="img/portfolio/thumbnails/5.png" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    HTML, JavaScript, CSS, Firebase
+                  </div>
+                  <div class="project-name">
+                    CSE Service Project
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="img/portfolio/fullsize/6.png">
+              <img class="img-fluid" src="img/portfolio/thumbnails/6.png" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Python
+                  </div>
+                  <div class="project-name">
+                    Pac-Man
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="call-to-action bg-primary">
+      <div class="container text-center">
+        <h2 class="section-heading text-white">Want to know more about my professional life?</h2>
+        <a class="btn btn-default btn-xl sr-button" href="https://github.com/trongaus/trongaus.github.io/raw/master/includes/resume.pdf">Download my resume</a>
+      </div>
+    </div>
+
+    <section id="contact">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto text-center">
+            <h2 class="section-heading">Get In Touch!</h2>
+            <hr class="primary">
+            <p>Are you so impressed with my website that you want to slide into my DMs? I understand. </p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 ml-auto text-center">
+            <i class="fa fa-envelope-o fa-3x sr-contact"></i>
+            <p>
+              <a href="mailto:trongaus@gmail.com">trongaus@gmail.com</a>
+            </p>
+          </div>
+          <div class="col-lg-4 mr-auto text-center">
+            <i class="fa fa-linkedin fa-3x sr-contact"></i>
+            <p>
+              <a href="http://linkedin.com/in/trongaus">Linkedin</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/popper/popper.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/creative.min.js"></script>
+
+  </body>
+
+</html>

@@ -342,3 +342,8 @@ header.masthead {
 
 .btn-xl {
   padding: 15px 30px; }
+
+.padding-50{
+    padding-right:50px;
+    padding-left:50px;
+}

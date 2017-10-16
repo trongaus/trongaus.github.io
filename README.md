@@ -1,5 +1,5 @@
 # Taylor Rongaus
-Repository for the code for my personal website.
+Repository for my personal website.
 
 Code last modified: 9/7/17
 

@@ -1,4 +1,4 @@
-# Taylor Rongaus
+# Taylor Rongaus-Pettit
 Repository for my personal website.
 
 Code last modified: 9/7/17
